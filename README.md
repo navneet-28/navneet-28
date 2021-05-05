@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @navneet-28
 - 👀 I’m interested in web and app development & ML
-- 🌱 I’m currently learning all three stated above
 - 💞️ I’m looking to collaborate on ...
 - 📫 you may reach to me through email: singhnavneet9640@gmail.com
 
