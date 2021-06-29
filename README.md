@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Navneet singh, first year Undergraduate @IIT Kanpur.
 - 👀 I’m interested in web and app development & ML
 - 🏡 I love to reside at 127.0.0.1
-- 📫 you may reach to me through email: singhnavneet9640@gmail.com(mailto: singhnavneet9640@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- 📫 you may reach to me through email: singhnavneet9640@gmail.com
 - ✨ I like to sit alone in free time and reflect upon various aspects of life(yea I know its strange :)  )
 
 
