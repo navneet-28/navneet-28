@@ -1,6 +1,6 @@
 ## Welcome to my world!
 
-- 👋 Hi, I’m Navneet singh, first year Undergraduate @IIT Kanpur.
+- 👋 Hi, I’m Navneet singh, sophomore @IIT Kanpur.
 - 👀 I’m interested in web and app development & ML
 - 🏡 127.0.0.1 - "favourite place" :)
 - 📫 You may reach to me through email: singhnavneet9640@gmail.com
