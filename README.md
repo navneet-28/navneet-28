@@ -10,4 +10,4 @@
 ###  ✨ Eat, Sleep, Code, Repeat! 
 
 
-[![navneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=navneet-28&hide=stars)](https://github.com/navneet-28/navneet-28.git) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navneet-28)](https://github.com/navneet-28/navneet-28.git)
+[![navneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=navneet-28&hide=stars)](https://github.com/navneet-28/navneet-28.git)
