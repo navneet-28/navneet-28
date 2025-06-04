@@ -3,6 +3,4 @@
 </div>
 
 
-###  ✨ Eat, Sleep, Code, Repeat! 
-
 
